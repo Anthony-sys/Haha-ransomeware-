@@ -2,8 +2,7 @@
 
  echo "enter a source file"
  read $source
- echo "enter an encryption format"
- read $format
+ format=$source.haha
  echo "enter a password"
  read $password
 
